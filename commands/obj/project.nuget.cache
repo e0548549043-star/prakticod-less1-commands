@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c0u1JLO8sms=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\שיעורים\\שנה ב\\praktikod\\commends\\commands\\commands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.12\\system.commandline.2.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
